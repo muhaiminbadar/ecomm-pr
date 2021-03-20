@@ -1,0 +1,23 @@
+{
+  "name": "bks-ecomm",
+  "version": "1.0.0",
+  "description": "Backend Server to accomodate API requests from the Frontend React Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhaiminbadar/ecomm-pr.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "bugs": {
+    "url": "https://github.com/muhaiminbadar/ecomm-pr/issues"
+  },
+  "homepage": "https://github.com/muhaiminbadar/ecomm-pr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
